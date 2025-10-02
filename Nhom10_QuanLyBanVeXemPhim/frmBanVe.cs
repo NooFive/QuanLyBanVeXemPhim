@@ -40,5 +40,7 @@ namespace Nhom10_QuanLyBanVeXemPhim
 
             e.DrawFocusRectangle();
         }
+
+        
     }
 }
